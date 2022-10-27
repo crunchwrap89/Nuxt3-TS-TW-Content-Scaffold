@@ -1,6 +1,4 @@
-# Nuxt3-TS-TW-Scaffold
-
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+# Nuxt3-TypeScript-TailWind-Scaffold
 
 ## Setup
 
