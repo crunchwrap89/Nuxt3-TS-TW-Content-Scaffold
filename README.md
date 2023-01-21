@@ -37,3 +37,5 @@ Locally preview production build:
 npm run preview
 ```
 
+Find tutorials on fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
